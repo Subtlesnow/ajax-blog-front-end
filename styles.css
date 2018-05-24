@@ -1,0 +1,25 @@
+*  {
+  font-family: Helvetica;
+}
+
+body {
+  background-color: grey;
+}
+
+/* header {
+  background-color: lightblue;
+} */
+
+#blogpost-titles {
+  float: left;
+  width: 33%;
+}
+
+#blogpost-titles-list {
+  list-style-type: none;
+}
+
+#main-panel {
+  float: right;
+  width: 67%;
+}
